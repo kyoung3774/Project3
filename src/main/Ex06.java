@@ -10,11 +10,11 @@ public class Ex06 {
 		boolean result4 = (5 > 0) || (10 < 0); //true || false 
 		boolean result5 = !(5 > 0); //!(true)
 		
-		System.out.println(result1);
-		System.out.println(result2);
-		System.out.println(result3);
-		System.out.println(result4);
-		System.out.println(result5);
+		System.out.println("result1: " + result1);
+		System.out.println("result2: " + result2);
+		System.out.println("result3: " + result3);
+		System.out.println("result4: " + result4);
+		System.out.println("result5: " + result5);
 	}
 
 }
