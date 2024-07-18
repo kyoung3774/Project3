@@ -7,6 +7,7 @@ public class Ex08 {
 		int moterAge = 55;
 		int faterAge = 50;
 		
+		// 삼항 연산자
 		String str = (moterAge > faterAge) ? "엄마":"아빠";
 		System.out.println(str);
 		

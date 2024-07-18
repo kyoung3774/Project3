@@ -21,6 +21,19 @@ public class Ex02 {
 		System.out.println(y); // 101
 		System.out.println(z); // 100
 		System.out.println(x); // 100
+		System.out.println();
+		
+		int a = 100;
+		int b = a++;
+		int c = a--;
+		int d = b;
+		int e = c;
+		
+		System.out.println(a);
+		System.out.println(b);
+		System.out.println(c);
+		System.out.println(d);
+		System.out.println(e);
 	}
 
 }
